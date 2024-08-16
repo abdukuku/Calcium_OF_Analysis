@@ -14,7 +14,7 @@ This script is intended for the analysis of open field experiment data. It inclu
 This script provides a graphical user interface for exploring open-field data. It is built with qt. The GUI is still a work in progress, but I hope it gives a idea of what I am trying to achieve.
 
 **data/E8KO_1234**
-This file is an example dataset that can be used to test the functionality of the GUI and the analysis script. It contains synthetic data (generated with [RatInABox toolbox](https://example.com) - RatInABox toolbox) structured similarly to typical open field experiment datasets.
+This file is an example dataset that can be used to test the functionality of the GUI and the analysis script. It contains synthetic data (generated with [RatInABox toolbox](https://github.com/RatInABox-Lab/RatInABox/tree/main) - RatInABox toolbox) structured similarly to typical open field experiment datasets.
 Results_OLM_Ca_Events.pkl can be visualized with the GUI. 
 
 Requirements : 
