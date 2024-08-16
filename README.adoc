@@ -1,4 +1,4 @@
-# Postdoc_AU
+# Calcium_OF_Analysis
 
 In this repository, I provide a few scripts that I used to analyze and visualize calcium imaging data. The scripts are not fully polished, but functional(ish). 
 
