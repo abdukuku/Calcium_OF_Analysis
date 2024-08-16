@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.23.5
+PyQt5==5.15.7
+pyqtgraph==0.13.3
+matplotlib==3.7.1
+pathlib==1.0.1
+scipy==1.10.1
+pynapple==0.1.4
+tqdm==4.64.1
